@@ -2,7 +2,7 @@
 Paint application in Android using Kotlin
 
  <div align="center">
- <a href="https://www.youtube.com/watch?v=1se-X2HQtJc&ab_channel=AdrianaLatorre" target="_blank">Demo</a>
+ <a href="https://youtu.be/d3KlhcN2Z4o" target="_blank">Demo</a>
  </div>
  <br/>
  
